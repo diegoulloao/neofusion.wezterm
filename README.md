@@ -64,12 +64,14 @@ local neofusion_theme = {
   },
 }
 
-return {
+config = {
   -- set theme
   colors = neofusion_theme,
 
-  -- rest of config...
+  -- rest
 }
+
+return config
 ```
 
 # Getting the right diff colors ✅
