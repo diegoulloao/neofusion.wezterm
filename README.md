@@ -14,16 +14,16 @@
 </p>
 
 <p align="center">
-    <img src="" alt="neofusion" />
+    <img src="https://i.ibb.co/r6fjmrk/wezterm-1.png" alt="neofusion" />
     <hr/>
     <p><b><code>spotify-player</code></b></p>
-    <img src="" alt="neofusion" />
+    <img src="https://i.ibb.co/nkm5t0j/wezterm-2.png" alt="neofusion" />
     <hr/>
     <p><b><code>htop</code></b></p>
-    <img src="" alt="neofusion" />
+    <img src="https://i.ibb.co/Q95qLVG/wezterm-3.png" alt="neofusion" />
     <hr />
     <p><b><code>onefetch</code></b></p>
-    <img src="" alt="neofusion" />
+    <img src="https://i.ibb.co/4WMjHFz/wezterm-4.png" alt="neofusion" />
 </p>
 
 # Installation 📦
