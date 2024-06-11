@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-        <img src="https://i.ibb.co/87DhmZx/logo.jpg" width="110" />
+        <img src="https://i.ibb.co/tMdHTN8/logo.jpg" width="110" />
         <br />neofusion.wezterm
     </h1>
 </div>
@@ -28,7 +28,7 @@
 
 # Installation 📦
 
-Add the following code to your `.wezterm.lua` config:
+Add the following code into your `.wezterm.lua` config:
 
 ```lua
 local wezterm = require("wezterm")
@@ -68,7 +68,7 @@ return {
   -- set theme
   colors = neofusion_theme,
 
-  -- rest...
+  -- rest of config...
 }
 ```
 
