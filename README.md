@@ -57,7 +57,7 @@ config.colors = {
   brights = {
     "#2f516c", -- Bright Black
     "#d943a8", -- Bright Red (Command error)
-    "#616d33", -- Bright Green (Exec)
+    "#ea6847", -- Bright Green (Exec)
     "#86dbf5", -- Bright Yellow
     "#5db2f8", -- Bright Blue (Folder)
     "#d943a8", -- Bright Magenta
