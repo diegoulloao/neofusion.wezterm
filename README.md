@@ -34,6 +34,8 @@ Add the following code to your `.wezterm.lua` config:
 local wezterm = require("wezterm")
 local config = wezterm.config_builder()
 
+-- rest of config
+
 config.colors = {
   foreground = "#e0d9c7",
   background = "#070f1c",
