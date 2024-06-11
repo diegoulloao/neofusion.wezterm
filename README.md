@@ -34,9 +34,7 @@ Add the following code to your `.wezterm.lua` config:
 local wezterm = require("wezterm")
 local config = wezterm.config_builder()
 
--- rest of config
-
-config.colors = {
+local neofusion_theme = {
   foreground = "#e0d9c7",
   background = "#070f1c",
   cursor_bg = "#e0d9c7",
@@ -66,7 +64,12 @@ config.colors = {
   },
 }
 
-return config
+return {
+  -- set theme
+  colors = neofusion_theme,
+
+  -- rest...
+}
 ```
 
 # Getting the right diff colors ✅
